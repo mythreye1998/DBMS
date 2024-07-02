@@ -9,10 +9,6 @@
 
 \f0\fs24 \cf0 Streaming Data for Traditional Database Workload\
 \
-Team:\
-Rakesh Reddy Yempalla\
-Mythreye Pasulla\
-Voohitha Morampudi\
 \
 The project focuses on implementing a streaming setup for traditional database using TPC-H benchmark. \
 Streaming Platform : Apache kafka\
